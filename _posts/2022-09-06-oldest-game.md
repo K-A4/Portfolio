@@ -3,7 +3,7 @@ layout: post
 title:  "Oldest Game"
 summary: "Design Intern"
 date:   2022-09-06 15:39:40
-preview: Portfolio/assets/postpreview.png
+preview: /assets/postpreview.png
 ---
 
 ![Picture 1](Portfolio/assets/fullsize.png)
