@@ -16,6 +16,7 @@ a {
 
 	&:focus,
 	&:hover {
-		color: $color-secondary;
+		color: $accent-color;
+		text-decoration: underline;
 	}
 }

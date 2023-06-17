@@ -9,10 +9,15 @@
 
 // Color
 // ––––––––––––––––––––––––––––––––––––––––––––––––––
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 50%);
 
-$color-initial: #fff !default;
-$color-primary: #000000 !default;
-$color-secondary: #393939 !default;
-$color-tertiary: #f4f5f6 !default;
+$accent-color: #00fff7;
+
+$color-initial: #000000 !default;
+$color-primary: #ffffff !default;
+$color-secondary: #ffffff !default;
+$color-tertiary: #212121 !default;
 $color-quaternary: #d1d1d1 !default;
 $color-quinary: #e1e1e1 !default;

@@ -3,12 +3,14 @@
  */
  .wrapper .container {
     max-width: 80rem;
+    background-color: $color-initial;
 }
 
 .site-header {
     text-align: center;
     border-bottom: 1px solid $grey-color-light;
     margin-bottom: 1rem;
+    padding-top: 1rem;
 }
 
 .navbar {
@@ -18,10 +20,6 @@
 .nav-item {
     display: inline-block;
     padding: 1rem;
-    :hover{
-        text-decoration: underline;
-        color: $color-primary;
-    }
 }
 
 .post-nav {
@@ -52,7 +50,6 @@
  * Site footer
  */
 .site-footer {
-    margin: 1rem 0;
     padding: 1rem 0;
 	font-size: 12px;
 }
@@ -86,6 +83,6 @@
     border: 1px solid $color-initial;
 
     &:hover {
-        border: 1px solid $grey-color-dark;
+        border: 1px solid $accent-color;
     }
 }

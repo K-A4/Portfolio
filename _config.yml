@@ -11,3 +11,5 @@ footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-t
 # Build settings
 markdown: kramdown
 permalink: pretty
+highlighter: rouge
+input: GFM
