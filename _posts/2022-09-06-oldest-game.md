@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Oldest Game"
+title:  "GAKURAN"
 summary: "Design Intern"
 date:   2022-09-06 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/images/postpreview.png
 ---
 
-![Picture 1](Portfolio/assets/fullsize.png)
+![Picture 1](/assets/fullsize.png)
 
 Put down info here, either in bullets or paragraphs.
